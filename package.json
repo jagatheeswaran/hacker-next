@@ -4,8 +4,7 @@
   "description": "A Hacker News clone made with Next.js",
   "main": "server.js",
   "scripts": {
-    "dev": "next",
-    "dev1": "cross-env NODE_OPTIONS='--inspect' next dev"
+    "dev": "next"
   },
   "author": "Jagatheeswaran T S",
   "license": "ISC",

@@ -20,6 +20,7 @@ class Index extends React.Component {
     }
     return { stories: stories.data, page };
   }
+
   render() {
     const { stories, page } = this.props;
 
